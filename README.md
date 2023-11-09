@@ -11,7 +11,7 @@ Das hier ist meine erste richtige App, Ich hab mir richtig Mühe gegeben, markie
 
 ## Libraries
 
-[](https://images.pexels.com/photos/1089438/pexels-photo-1089438.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500)
+[](https://images.pexels.com/photos/1089438/pexels-photo-1089438.jpeg)
 
 Retrofit, Coil und noch ein  paar
 
