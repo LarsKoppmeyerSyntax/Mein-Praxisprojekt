@@ -2,7 +2,9 @@
 
 
 [Libraries](https://github.com/LarsKoppmeyerSyntax/Mein-Praxisprojekt/blob/main/README.md#Libraries)
+
 [Features](https://github.com/LarsKoppmeyerSyntax/Mein-Praxisprojekt/blob/main/README.md#features)
+
 [Kontakt](https://github.com/LarsKoppmeyerSyntax/Mein-Praxisprojekt/blob/main/README.md#Kontakt)
 
 
