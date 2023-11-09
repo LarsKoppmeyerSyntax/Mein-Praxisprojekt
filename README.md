@@ -1,5 +1,6 @@
 # Mein-Praxisprojekt
 
+Das hier ist meine erste richtige App, Ich hab mir richtig Mühe gegeben, markier doch bitte das Repository mit einem Stern
 
 [Libraries](https://github.com/LarsKoppmeyerSyntax/Mein-Praxisprojekt/blob/main/README.md#Libraries)
 
