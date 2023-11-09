@@ -1,5 +1,19 @@
 # Mein-Praxisprojekt
 
-![Static Badge](https://img.shields.io/badge/Hallo-Syntax-purple)
 
-![Static Badge](https://img.shields.io/badge/Mein_Badge-Bla-orange)
+
+
+
+
+## Libraries
+
+Retrofit, Coil und noch ein  paar
+
+
+## Features
+
+[CatFact Api](https://catfact.ninja/)
+
+## Kontakt
+
+
