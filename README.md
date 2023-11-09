@@ -4,9 +4,9 @@ Das hier ist meine erste richtige App, Ich hab mir richtig Mühe gegeben, markie
 
 [Libraries](README.md#Libraries)
 
-[Features](https://github.com/LarsKoppmeyerSyntax/Mein-Praxisprojekt/blob/main/README.md#features)
+[Features](README.md#features)
 
-[Kontakt](https://github.com/LarsKoppmeyerSyntax/Mein-Praxisprojekt/blob/main/README.md#Kontakt)
+[Kontakt](README.md#Kontakt)
 
 
 ## Libraries
